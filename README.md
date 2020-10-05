@@ -10,3 +10,8 @@
 ##### result
 ![predbtc2](https://user-images.githubusercontent.com/71945157/95032699-851e2980-06f6-11eb-9e18-b0f514326ecc.png)
 
+---
+
+##### After
+##### 딥러닝을 이용한 주식 자동매매 프로젝트를 위한 추가수정
+
