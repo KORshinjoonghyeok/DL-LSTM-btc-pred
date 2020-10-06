@@ -24,4 +24,6 @@
 ##### 정규화
 ![nor](https://user-images.githubusercontent.com/71945157/95169170-6babd900-07ed-11eb-93ab-e9ec15d8fddc.png)
 
+##### 정규화 결과
+![norpic](https://user-images.githubusercontent.com/71945157/95169336-b0377480-07ed-11eb-8115-6c2e7f7878c7.png)
 
