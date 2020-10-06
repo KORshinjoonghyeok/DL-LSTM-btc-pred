@@ -26,4 +26,7 @@
 
 ##### 정규화 결과
 ![norpic](https://user-images.githubusercontent.com/71945157/95169336-b0377480-07ed-11eb-8115-6c2e7f7878c7.png)
-
+##### trainset,testset split
+![split](https://user-images.githubusercontent.com/71945157/95169673-3653bb00-07ee-11eb-83ad-d21f20d72baa.png)
+##### split 결과
+![splitpic](https://user-images.githubusercontent.com/71945157/95169679-38b61500-07ee-11eb-8277-770db3357cba.png)
