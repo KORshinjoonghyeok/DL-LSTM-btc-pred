@@ -16,6 +16,8 @@
 ##### 딥러닝을 이용한 주식 자동매매 프로젝트를 위한 수정
 ---
 ###### Gdax API를 활용한 데이터 수집
-###### unixtime(t) : 유닉스 시간대로 바꿔주는
-![talib](https://user-images.githubusercontent.com/71945157/95061526-aacb2300-0736-11eb-8bbb-2c5306bed31f.png)
+###### unixtime(t) : 유닉스 시간대로 바꿔주는 코드
+![test11](https://user-images.githubusercontent.com/71945157/95159498-28476f80-07d9-11eb-8d74-707f67475b72.png)
+---
+
 
