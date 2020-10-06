@@ -18,6 +18,8 @@
 ###### Gdax API를 활용한 데이터 수집
 ###### unixtime(t) : 유닉스 시간대로 바꿔주는 코드
 ![test11](https://user-images.githubusercontent.com/71945157/95159498-28476f80-07d9-11eb-8d74-707f67475b72.png)
----
+##### 실행결과
+![testtt](https://user-images.githubusercontent.com/71945157/95159673-955b0500-07d9-11eb-80f6-b5fb11fbb4cc.png)
+
 
 
