@@ -21,5 +21,7 @@
 ##### 실행결과
 ![testtt](https://user-images.githubusercontent.com/71945157/95159673-955b0500-07d9-11eb-80f6-b5fb11fbb4cc.png)
 
+##### 정규화
+![nor](https://user-images.githubusercontent.com/71945157/95169170-6babd900-07ed-11eb-93ab-e9ec15d8fddc.png)
 
 
