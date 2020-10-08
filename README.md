@@ -16,8 +16,10 @@
 ##### 딥러닝을 이용한 주식 자동매매 프로젝트를 위한 수정
 ---
 #### 현재 진행상황
-#### Talib으로 생성한 보조지표와 종가가격('Close')의 상관관계 시각화 (각 volume,market cap, sma5,sma20,dn,ema12,ema26,mavg)
+#### Talib으로 생성한 보조지표와 종가가격('Close')의 상관관계 시각화 
+##### (각 volume,market cap, sma5,sma20,dn,ema12,ema26,mavg)
 ![talibTest33](https://user-images.githubusercontent.com/71945157/95432098-2b815d80-0989-11eb-9556-6494a260effb.png)
+
 ---
 --- 
 --- 
