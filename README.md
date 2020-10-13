@@ -24,19 +24,8 @@
 --- 
 --- 
 --- 
-
-###### Gdax API를 활용한 데이터 수집
-###### unixtime(t) : 유닉스 시간대로 바꿔주는 코드
-![test11](https://user-images.githubusercontent.com/71945157/95159498-28476f80-07d9-11eb-8d74-707f67475b72.png)
-##### 실행결과
-![testtt](https://user-images.githubusercontent.com/71945157/95159673-955b0500-07d9-11eb-80f6-b5fb11fbb4cc.png)
-
-##### 정규화
-![nor](https://user-images.githubusercontent.com/71945157/95169170-6babd900-07ed-11eb-93ab-e9ec15d8fddc.png)
-
-##### 정규화 결과
-![norpic](https://user-images.githubusercontent.com/71945157/95169336-b0377480-07ed-11eb-8115-6c2e7f7878c7.png)
-##### trainset,testset split
-![split](https://user-images.githubusercontent.com/71945157/95169673-3653bb00-07ee-11eb-83ad-d21f20d72baa.png)
-##### split 결과
-![splitpic](https://user-images.githubusercontent.com/71945157/95169679-38b61500-07ee-11eb-8277-770db3357cba.png)
+##### 이전 진행단계
+##### Ta-lib을 이용한 보조지표 피처 생성(완성)
+##### Gdax API를 이용한 데이터수집(완성)
+##### 데이터셋 정규화(완성)
+##### 데이터셋 분할(완성)
